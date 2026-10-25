@@ -1,3 +1,7 @@
+# --------------------------------------------------- #
+#         Module Under Developmenmt (build 0)         #
+# --------------------------------------------------- #
+
 from exception.error_codes import ErrorCodes
 
 class ExceptionHandler:

@@ -1,3 +1,7 @@
+# --------------------------------------------------- #
+#         Module Under Developmenmt (build 0)         #
+# --------------------------------------------------- #
+
 from client.communicator import Communicator
 from exception.handler import ExceptionHandler
 from context.context_manager import context_collector
